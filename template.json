@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length_of_reply",
+        "research_paper",
+        "type"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nWrite a {type} of the paper {research_paper} in {length_of_reply} length.\n\n",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
