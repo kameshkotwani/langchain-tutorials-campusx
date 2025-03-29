@@ -10,6 +10,8 @@ dependencies = [
     "langchain-google-genai>=2.0.9",
     "langchain-huggingface>=0.1.2",
     "langchain-openai>=0.3.5",
+    "pydantic>=2.10.6",
+    "pydantic['email']",
     "python-dotenv>=1.0.1",
     "scikit-learn>=1.6.1",
     "streamlit>=1.42.2",
