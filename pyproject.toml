@@ -15,7 +15,7 @@ dependencies = [
     "langchain-huggingface>=0.1.2",
     "langchain-openai>=0.3.5",
     "pydantic>=2.10.6",
-    "pydantic['email']",
+    "pydantic[email]",
     "pypdf>=5.4.0",
     "python-dotenv>=1.0.1",
     "scikit-learn>=1.6.1",
